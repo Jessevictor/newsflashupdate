@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 111663ab0c68acbad570fd091dbe26424d8b5fe1 jessevictor <kongoijesse97@gmail.com> 1592849763 +0300	commit (initial): first commit
+111663ab0c68acbad570fd091dbe26424d8b5fe1 c02e71e6a6180afac674844037ce5ef23edc15c0 jessevictor <kongoijesse97@gmail.com> 1594151083 +0300	commit: add initial page structure
+c02e71e6a6180afac674844037ce5ef23edc15c0 214f17e3a53440a6d3ce194c8bf831d292a0b84b jessevictor <kongoijesse97@gmail.com> 1594151534 +0300	commit: add paragraph block elements to thepage
+214f17e3a53440a6d3ce194c8bf831d292a0b84b 84352bf5f7b0523c64d590c589d80aec647ea262 jessevictor <kongoijesse97@gmail.com> 1594151962 +0300	commit: add header block elements
+84352bf5f7b0523c64d590c589d80aec647ea262 c4a9178f9fbdb2962b37dc57711100b5145ae929 jessevictor <kongoijesse97@gmail.com> 1594152263 +0300	commit: add list elements
+c4a9178f9fbdb2962b37dc57711100b5145ae929 ec17feb21dcf6a9011a7b0968497783d77e85e36 jessevictor <kongoijesse97@gmail.com> 1594152755 +0300	commit: add image elements
+ec17feb21dcf6a9011a7b0968497783d77e85e36 5317a9af82fd705e8fe0bfde13f2cda5c77e0099 jessevictor <kongoijesse97@gmail.com> 1594190076 +0300	commit: add style.css
+5317a9af82fd705e8fe0bfde13f2cda5c77e0099 51cd59e558c7fde500e7649d066cda5dcd5e79ec jessevictor <kongoijesse97@gmail.com> 1594190529 +0300	commit: change name of favourite-thing.html file to index.html
