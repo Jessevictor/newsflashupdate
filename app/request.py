@@ -17,8 +17,8 @@ def configure_request(app):
 
 def get_sources():
     sources_url = base_url.format(api_key)
-    print('*************sources url******')
-    print(sources_url)
+    #print('*************sources url******')
+    #print(sources_url)
     with urllib.request.urlopen(sources_url) as url:
         get_source = url.read()
         response = json.loads(get_source)
@@ -51,7 +51,7 @@ def process_result(sources):
 
 def get_articles(id):
     get_articles_url = article_url.format(id, api_key)
-    print(get_article_url)
+    #print(get_article_url)
     with urllib.request.urlopen(get_articles_url) as url:
         get_source = url.read()
         response = json.loads(get_source)
